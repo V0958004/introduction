@@ -2,10 +2,10 @@
 <html>
   <head>
     <meta charseet="UTF-8">
-    <title>關於我</title>
+    <title>林芳如的自我介紹</title>
   </head>
   <body> 
-  <h1>林芳如的自我介紹</h1>  
+  <h1>關於我</h1>  
   <p>我來自台中，今年20歲，是處女座的女生。養了兩隻貓咪，還幫他們創團叫做羊咩咩。</p>
     
   <h2>興趣</h2>
