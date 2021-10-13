@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charseet="UTF-8">
-    <title>林芳如的自我介紹</title>
+    <title>關於我</title>
   </head>
   <body> 
   <h1>林芳如的自我介紹</h1>  
